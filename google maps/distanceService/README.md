@@ -3,6 +3,6 @@ Distance Service
 ---
 Wraps the google maps DistanceMatrixService functionality.
 
-** functions **
+**functions**
 
 fromTo(fromLatitude, fromLongitude, toLatitude, toLongitude)
