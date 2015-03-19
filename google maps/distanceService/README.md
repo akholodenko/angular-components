@@ -1,4 +1,6 @@
-# angular-components: Google Maps DistanceMatrixService
+# angular-components:
+# Google Maps DistanceMatrixService
+
 Distance Service
 ---
 Wraps the google maps DistanceMatrixService functionality.
