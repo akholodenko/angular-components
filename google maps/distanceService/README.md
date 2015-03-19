@@ -9,6 +9,8 @@ Wraps the google maps DistanceMatrixService functionality.
 * OUTPUT: { distance: [mileage in text], duration: [time in text] }
 
 **Sample**
+A sample working directive is in traveDistanceDirective.js.
+
 ```
 distanceService.fromTo(
 	scope.fromLatitude, scope.fromLongitude,
